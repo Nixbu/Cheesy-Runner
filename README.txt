@@ -1,7 +1,6 @@
 					Project - Mouse and Cheese Game
 ***********************************************************************
-Written by: Itay Mijan 322295460
-			Nir Busheri 206502569
+Written by: Itay and Nir 
 ***********************************************************************
 This project implements a game where the player controls a mouse
 trying to collect cheese while avoiding cats. The player wins by collecting
